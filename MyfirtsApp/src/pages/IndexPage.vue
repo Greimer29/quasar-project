@@ -79,11 +79,6 @@ export default defineComponent({
 
     const estudents = ref([
       {
-        name: 'Daira',
-        lastname: 'Fermin',
-        age: 19
-      },
-      {
         name: 'Carla',
         lastname: 'Carrillo',
         age: 23
