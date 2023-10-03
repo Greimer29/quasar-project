@@ -111,6 +111,8 @@ export default defineComponent({
       name.value = estudents.value[index].name
       lastname.value = estudents.value[index].lastname
       age.value = estudents.value[index].age
+
+      borrar()
     }
 
     /*
