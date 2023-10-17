@@ -22,6 +22,11 @@ export default defineComponent({
         title:'a',
         subtitle:'b',
         text:'c'
+      },
+      {
+        title:'a',
+        subtitle:'b',
+        text:'c'
       }
     ])
 
