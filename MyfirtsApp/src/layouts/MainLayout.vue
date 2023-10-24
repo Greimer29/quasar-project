@@ -56,6 +56,12 @@ const linksList = [
     caption: "pagina 2",
     icon: "chat",
     link: "pagina2",
+  },
+  {
+    title: "Pagina 3",
+    caption: "pagina 3",
+    icon: "chat",
+    link: "pagina3",
   }
 ];
 
